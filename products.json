@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Notebook HP 360 Envy 15",
+        "description":"Notebook HP Envy x360 táctil 15.6', Intel Core i7 1355U 16GB de RAM 512GB SSD, Gráficos Intel 1920x1080px Windows 11 Home",
+        "price": 2100,
+        "thumbnail": "http:/localhost:3000/img/img01.jpg",
+        "code": "fe0053dx",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "title": "Tv 50 samsung",
+        "description": "Smart Tv Samsung 50 Un50cu7000gczb Led 4k",
+        "price": 600,
+        "thumbnail": "http:/localhost:3000/img/img02.jpg",
+        "code": "Un50cu",
+        "stock": 25
+    },
+    {
+        "id": 3,
+        "title": "Smartwatch Mibro Watch C3",
+        "description": "Smartwatch Mibro Watch C3 Llamadas 70 Modos 47mm Amoled Hd Color de la caja Negro",
+        "price": 75,
+        "thumbnail": "http:/localhost:3000/img/img03.jpg",
+        "code": "MlbroC3",
+        "stock": 150
+    },
+    {
+        "id": 4,
+        "title": "Tablet Samsung 9\"",
+        "description": "Samsung Galaxy Tab S9 Fe 128gb 6gb Ram Color Gray",
+        "price": 42,
+        "thumbnail": "http:/localhost:3000/img/img04.jpg",
+        "code": "GalaxyTabS9",
+        "stock": 800
+    },
+    {
+        "id": 5,
+        "title": "Pen Drive 32GB",
+        "description": "Pen Drive 32GB",
+        "price": 120,
+        "thumbnail": "http:/localhost:3000/img/img05.jpg",
+        "code": "PD32",
+        "stock": 18
+    },
+    {
+        "id": 6,
+        "title": "Notebook Assus 520",
+        "description":"Notebook Assus 520 17', Ryzen 7 16GB de RAM 512GB SSD, Windows 11 Home",
+        "price": 1950,
+        "thumbnail": "http:/localhost:3000/img/img06.jpg",
+        "code": "As0048",
+        "stock": 14
+    },
+    {
+        "id": 7,
+        "title": "Afeitdora Philip",
+        "description": "Smart Shaver Philip true",
+        "price": 150,
+        "thumbnail": "http:/localhost:3000/img/img07.jpg",
+        "code": "Ph38sh",
+        "stock": 9
+    },
+    {
+        "id": 8,
+        "title": "Smartwatch Samsung H4",
+        "description": "Smartwatch Samsung H4 Llamadas 4 Modos ",
+        "price": 95,
+        "thumbnail": "http:/localhost:3000/img/img08.jpg",
+        "code": "SamWt03",
+        "stock": 143
+    },
+    {
+        "id": 9,
+        "title": "Tablet Lenovo 9 pulgadas",
+        "description": "Lenovo Tab S9 Fe 128gb 6gb Ram Color Silver",
+        "price": 54,
+        "thumbnail": "http:/localhost:3000/img/img09.jpg",
+        "code": "LenTab9",
+        "stock": 720
+    },
+    {
+        "id": 10,
+        "title": "Pen Drive 256GB",
+        "description": "Pen Drive 256GB",
+        "price": 240,
+        "thumbnail": "http:/localhost:3000/img/img10.jpg",
+        "code": "PD256",
+        "stock": 25
+    }
+]
