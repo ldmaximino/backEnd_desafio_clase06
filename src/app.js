@@ -1,5 +1,7 @@
 import express from 'express';
-import { productManager} from './ProductManager.js';
+import ProductManager from './productManager.js';
+
+const productManager = new ProductManager('./products.json');
 
 const app = express();
 
@@ -27,7 +29,7 @@ app.get('/products/:pid', async (req,res) => {
     if(productFind) {
         return res.send({item: productFind}); //si se encuentra el producto con el parámetro enviado (id) se devuelve un objeto con el producto encontrado
     } else {
-        return res.send({msg: `Error, ID product '${id}' does not exist!`}); //si no se encuentra, se devuelve un objeto con un mensaje de error
+        return res.send({msg: `Error, product ID (${pid}) does not exist!`}); //si no se encuentra, se devuelve un objeto con un mensaje de error
     };
 });
 
